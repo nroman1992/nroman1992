@@ -57,7 +57,7 @@ I am a Mechanical Engineering graduate from the University of Pinar del Río (20
 
 ## Languages and Tools:
 <p>
-  <img src="images/vscode.svg" alt="VSCode" height="30"> VSCode
+  <img src="images/vscode.svg" alt="VSCode" height="30">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="30">
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" height="30">
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C" height="30">
