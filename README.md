@@ -30,7 +30,7 @@
 </p>
 
 ## Connect with me: 
-<a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+<a href="https://www.linkedin.com/in/nelson-g-roman-30b7142bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="30">
 </a>
 <a href="https://github.com/nroman1992" target="_blank">
@@ -39,10 +39,10 @@
 <a href="https://orcid.org/0009-0006-8794-9500" target="_blank">
   <img src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID" height="30">
 </a>
-<a href="https://www.researchgate.net/profile/yourprofile" target="_blank">
+<a href="https://www.researchgate.net/profile/Nelson-G-Roman" target="_blank">
   <img src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white" alt="ResearchGate" height="30">
 </a>
-<a href="https://nroman1992.github.io" target="_blank">
+<a href="https://nroman1992.github.io/webpage/" target="_blank">
   <img src="https://img.shields.io/badge/-My%20Website-FF7139?style=flat&logo=firefox&logoColor=white" alt="Website" height="30">
 </a>
 
@@ -54,7 +54,6 @@
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C" height="30">
   <img src="https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white" alt="LaTeX" height="30">
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" height="30">
-  <img src="https://img.shields.io/badge/-Object--Oriented%20Programming-4CAF50?style=flat&logo=codeigniter&logoColor=white" alt="OOP" height="30">
 </p>
 
 
@@ -64,6 +63,7 @@
   <img src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat&logo=scikitlearn&logoColor=white" alt="Machine Learning" height="30">
   <img src="https://img.shields.io/badge/-Deep%20Learning-EE4C2C?style=flat&logo=tensorflow&logoColor=white" alt="Deep Learning" height="30">
   <img src="https://img.shields.io/badge/-Artificial%20Intelligence-4285F4?style=flat&logo=ibmwatson&logoColor=white" alt="Artificial Intelligence" height="30">
+  <img src="https://img.shields.io/badge/-Object--Oriented%20Programming-4CAF50?style=flat&logo=codeigniter&logoColor=white" alt="OOP" height="30">
 </p>
 
 
