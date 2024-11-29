@@ -2,7 +2,7 @@
 
 
 <p align="center">
-**A passionate researcher in applied mathematics and computer science.**  
+    <strong>A passionate researcher in applied mathematics and computer science.
 </p>
 
 🔭 **I’m currently working on:**
