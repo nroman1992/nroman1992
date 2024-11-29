@@ -29,6 +29,10 @@ I am a Mechanical Engineering graduate from the University of Pinar del Río (20
   </a>
 </p>
 
+📄 **My CV:**
+
+[Download my CV (PDF)](https://github.com/nroman1992/webpage/blob/main/CV.Nelson.pdf)
+
 ## Connect with me: 
 <p>
 <a href="https://www.linkedin.com/in/nelson-g-roman-30b7142bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
