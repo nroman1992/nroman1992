@@ -57,7 +57,7 @@ I am a Mechanical Engineering graduate from the University of Pinar del Río (20
 
 ## Languages and Tools:
 <p>
-    <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VSCode" height="30">
+     <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VSCode" height="30">
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="30">
     <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" height="30">
     <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C" height="30">
@@ -76,6 +76,7 @@ I am a Mechanical Engineering graduate from the University of Pinar del Río (20
     <img src="https://img.shields.io/badge/-Artificial%20Intelligence-4285F4?style=flat&logo=ibmwatson&logoColor=white" alt="Artificial Intelligence" height="30">
     <img src="https://img.shields.io/badge/-Object--Oriented%20Programming-4CAF50?style=flat&logo=codeigniter&logoColor=white" alt="OOP" height="30">
     <img src="https://img.shields.io/badge/-Parallel%20Programming-007ACC?style=flat&logo=nvidia&logoColor=white" alt="Parallel Programming" height="30">
+    <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn" height="30">
 </p>
 
 
