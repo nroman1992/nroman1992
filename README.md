@@ -25,7 +25,7 @@ I am a Mechanical Engineering graduate from the University of Pinar del Río (20
 📫 **How to reach me:**
 <p>
   <a href="mailto:ngroman1992@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" height="30">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" height="20">
   </a>
 </p>
 
