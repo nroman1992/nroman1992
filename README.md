@@ -1,8 +1,12 @@
 ## Hi 👋, I'm Nelson García Román 
 
 
-# A passionate researcher in applied mathematics and computer science. 
-🔭 I’m currently working on ...
+A passionate researcher in applied mathematics and computer science. 
+
+🔭 I’m currently working on:
+- Optimization problems  
+- Artificial Neural Networks  
+- Mathematical modeling 
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
