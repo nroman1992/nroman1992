@@ -63,8 +63,8 @@ I am a Mechanical Engineering graduate from the University of Pinar del Río (20
   <img src="https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white" alt="LaTeX" height="30">
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" height="30">
 </p>
-<p>
-    <img src="images/vscode.svg" alt="VSCode" height="30">
+<p align="center">
+    <img src="images/vscode.svg" alt="VSCode" height="50">
 </p>
 
 
