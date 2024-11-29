@@ -5,24 +5,24 @@
 **A passionate researcher in applied mathematics and computer science.**  
 </p>
 
-🔭 I’m currently working on:
+🔭 **I’m currently working on:**
 - Optimization problems  
 - Artificial Neural Networks  
 - Mathematical modeling 
 
-🌱 I’m currently learning ... 
+🌱 **I’m currently learning:**
 - Deep learning techniques  
 - Multi-objective optimization (NSGA-II)  
 - Advanced methods in inverse problems  
 
-💬 Ask me about:
+💬 **Ask me about:**
 <p>
 <div style="text-align: justify;">
   I am a Mechanical Engineering graduate from the University of Pinar del Río (2016), Cuba. Currently, I am pursuing a Master's degree in Applied Mathematics at the Graduate Program in Applied Mathematics at the Universidade Federal do Rio Grande do Sul (UFRGS, 2023 - Present), Brazil. I have experience in the field of Applied Mathematics, with a focus on inverse problems, numerical methods, computational modeling, machine learning, and deep learning. This is a small sample of my work and projects.
 </div>
 </p>
 
-📫 How to reach me:
+📫 **How to reach me:**
 <p>
   <a href="mailto:ngroman1992@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" height="30">
