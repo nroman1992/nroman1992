@@ -38,5 +38,7 @@
 </p>
 
 
-## IoT and Hardware:  
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)  
+## IoT and Hardware: 
+<p>
+<img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt = "Arduino", height="30"> 
+</p>
