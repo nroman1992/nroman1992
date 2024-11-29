@@ -32,6 +32,7 @@
 </p>
 
 ## Connect with me: 
+<p>
 <a href="https://www.linkedin.com/in/nelson-g-roman-30b7142bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="30">
 </a>
@@ -47,7 +48,10 @@
 <a href="https://nroman1992.github.io/webpage/" target="_blank">
   <img src="https://img.shields.io/badge/-My%20Website-FF7139?style=flat&logo=firefox&logoColor=white" alt="Website" height="30">
 </a>
-
+<a href="https://www.youtube.com/@mielesmatematicas" target="_blank">
+  <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" height="30">
+</a>
+</p>
 
 ## Languages and Tools:
 <p>
@@ -62,6 +66,8 @@
 ## Technologies and Concepts:
 <p>
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" height="30">
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" height="30">
+  <img src="https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white" alt="Keras" height="30">
   <img src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat&logo=scikitlearn&logoColor=white" alt="Machine Learning" height="30">
   <img src="https://img.shields.io/badge/-Deep%20Learning-EE4C2C?style=flat&logo=tensorflow&logoColor=white" alt="Deep Learning" height="30">
   <img src="https://img.shields.io/badge/-Artificial%20Intelligence-4285F4?style=flat&logo=ibmwatson&logoColor=white" alt="Artificial Intelligence" height="30">
