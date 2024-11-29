@@ -25,7 +25,7 @@
 📫 **How to reach me:**
 <p>
   <a href="mailto:ngroman1992@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" height="20">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" height="30">
   </a>
 </p>
 
@@ -36,14 +36,14 @@
 <a href="https://github.com/nroman1992" target="_blank">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" height="30">
 </a>
-<a href="https://orcid.org/your_id" target="_blank">
+<a href="https://orcid.org/0009-0006-8794-9500" target="_blank">
   <img src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID" height="30">
 </a>
 <a href="https://www.researchgate.net/profile/yourprofile" target="_blank">
   <img src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white" alt="ResearchGate" height="30">
 </a>
 <a href="https://nroman1992.github.io" target="_blank">
-  <img src="https://img.shields.io/badge/-My%20Website-FF5722?style=flat&logo=google-chrome&logoColor=white" alt="Website" height="30">
+  <img src="https://img.shields.io/badge/-My%20Website-FF7139?style=flat&logo=firefox&logoColor=white" alt="Website" height="30">
 </a>
 
 
