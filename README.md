@@ -1,4 +1,4 @@
-## Hi 👋, I'm Nelson García Román 
+<h1 align="center">Hi 👋, I'm Nelson García Román</h1>
 
 
 A passionate researcher in applied mathematics and computer science. 
