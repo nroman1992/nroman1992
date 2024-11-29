@@ -42,6 +42,9 @@
 <a href="https://www.researchgate.net/profile/yourprofile" target="_blank">
   <img src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white" alt="ResearchGate" height="30">
 </a>
+<a href="https://nroman1992.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/-My%20Website-FF5722?style=flat&logo=google-chrome&logoColor=white" alt="Website" height="30">
+</a>
 
 
 ## Languages and Tools:
