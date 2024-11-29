@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nelson García Román</h1>
+<h1 align="center">Hi 👋, I'm Nelson Garcia Roman</h1>
 
 
 <p align="center">
@@ -26,6 +26,7 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
 ![OOP](https://img.shields.io/badge/-Object--Oriented%20Programming-4CAF50?style=flat&logo=codeigniter&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat&logo=scikitlearn&logoColor=white)
 
 ## IoT and Hardware:  
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)  
