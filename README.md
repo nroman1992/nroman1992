@@ -21,8 +21,9 @@
 </div>
 
 📫 How to reach me:
-[Email me](mailto:ngroman1992@gmail.com) 
-
+<a href="mailto:your_email@example.com">
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" height="20">
+</a>
 
 ## Languages and Tools:
 <p>
