@@ -18,10 +18,8 @@
 - Inverse Problems in the Boltzmann Radiative Transport Equation  
 
 💬 **Ask me about:**
-<p>
-<div style="text-align: justify;">
-  I am a Mechanical Engineering graduate from the University of Pinar del Río (2016), Cuba. Currently, I am pursuing a Master's degree in Applied Mathematics at the Graduate Program in Applied Mathematics at the Universidade Federal do Rio Grande do Sul (UFRGS, 2023 - Present), Brazil. I have experience in the field of Applied Mathematics, with a focus on inverse problems, numerical methods, computational modeling, machine learning, and deep learning. This is a small sample of my work and projects.
-</div>
+<p style="text-align: justify;">
+I am a Mechanical Engineering graduate from the University of Pinar del Río (2016), Cuba. Currently, I am pursuing a Master's degree in Applied Mathematics at the Graduate Program in Applied Mathematics at the Universidade Federal do Rio Grande do Sul (UFRGS, 2023 - Present), Brazil. I have experience in the field of Applied Mathematics, with a focus on inverse problems, numerical methods, computational modeling, machine learning, and deep learning. This is a small sample of my work and projects.
 </p>
 
 📫 **How to reach me:**
