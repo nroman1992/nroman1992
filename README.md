@@ -31,11 +31,8 @@ I am a Mechanical Engineering graduate from the University of Pinar del Río (20
 
 📄 **My CV:**
 <p>
-<head>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-</head>
+  [Download my CV (PDF)](https://drive.google.com/file/d/1u4ak3yusTB-TeTcrcU14_J8680nVCnOO/view?usp=sharing)
 </p>
-<!-- [Download my CV (PDF)](https://drive.google.com/file/d/1u4ak3yusTB-TeTcrcU14_J8680nVCnOO/view?usp=sharing) -->
 
 ## Connect with me: 
 <p>
