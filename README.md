@@ -57,7 +57,7 @@ I am a Mechanical Engineering graduate from the University of Pinar del Río (20
 
 ## Languages and Tools:
 <p>
-     <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VSCode" height="30">
+    <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.0.0/svgs/brands/visual-studio-code.svg" alt="VSCode" height="30">
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="30">
     <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" height="30">
     <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C" height="30">
@@ -83,4 +83,5 @@ I am a Mechanical Engineering graduate from the University of Pinar del Río (20
 ## IoT and Hardware: 
 <p>
     <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt = "Arduino", height="30"> 
+    <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu" height="30">
 </p>
