@@ -6,14 +6,16 @@
 </p>
 
 🔭 **I’m currently working on:**
-- Optimization problems  
+- Optimization Problems  
 - Artificial Neural Networks  
-- Mathematical modeling 
+- Mathematical Modeling 
+- Artificial Intelligence
 
 🌱 **I’m currently learning:**
-- Deep learning techniques  
-- Multi-objective optimization (NSGA-II)  
-- Advanced methods in inverse problems  
+- Deep Learning Techniques  
+- Multi-objective Optimization (NSGA-II)  
+- Advanced Methods in Inverse Problems  
+- Inverse Problems in the Boltzmann Radiative Transport Equation  
 
 💬 **Ask me about:**
 <p>
@@ -64,6 +66,7 @@
   <img src="https://img.shields.io/badge/-Deep%20Learning-EE4C2C?style=flat&logo=tensorflow&logoColor=white" alt="Deep Learning" height="30">
   <img src="https://img.shields.io/badge/-Artificial%20Intelligence-4285F4?style=flat&logo=ibmwatson&logoColor=white" alt="Artificial Intelligence" height="30">
   <img src="https://img.shields.io/badge/-Object--Oriented%20Programming-4CAF50?style=flat&logo=codeigniter&logoColor=white" alt="OOP" height="30">
+  <img src="https://img.shields.io/badge/-Parallel%20Programming-007ACC?style=flat&logo=nvidia&logoColor=white" alt="Parallel Programming" height="30">
 </p>
 
 
