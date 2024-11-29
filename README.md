@@ -1,10 +1,7 @@
 ## Hi 👋, I'm Nelson García Román 
 
-<!--
-**nroman1992/nroman1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
+# A passionate researcher in applied mathematics and computer science. 
 🔭 I’m currently working on ...
 
 - 🌱 I’m currently learning ...
@@ -14,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
