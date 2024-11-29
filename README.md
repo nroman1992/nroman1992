@@ -57,16 +57,15 @@ I am a Mechanical Engineering graduate from the University of Pinar del Río (20
 
 ## Languages and Tools:
 <p>
-    <a href="https://www.flaticon.es/iconos-gratis/visual-basico" title="visual básico iconos">Visual básico iconos creados por Freepik - Flaticon</a>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="30">
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" height="30">
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C" height="30">
   <img src="https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white" alt="LaTeX" height="30">
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" height="30">
 </p>
-<!-- <p align="center">
-    <img src="images/vscode.svg" alt="VSCode" height="50">
-</p> -->
+<p align="center">
+    <img src="images/vscode.svg" alt="VSCode" height="60">
+</p>
 
 
 ## Technologies and Concepts:
