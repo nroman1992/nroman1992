@@ -64,6 +64,8 @@ I am a Mechanical Engineering graduate from the University of Pinar del Río (20
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="30">
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt ="C++" height="30">
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C" height="30">
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" height="30">
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS" height="30">
   <img src="https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white" alt="LaTeX" height="30">
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" height="30">
 </p>
