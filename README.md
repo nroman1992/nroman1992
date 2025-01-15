@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nelson Garcia Roman</h1>
 
-<h1 align="center" style="font-size: 24px;">
+<h1 align="center" style="font-size: 12px;">
     Visitor Counter
 </h1>
 <p align="center">
