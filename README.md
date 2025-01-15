@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nelson Garcia Roman</h1>
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=nroman1992)
-
-<!-- <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/nroman1992/count.svg" /></p> -->
+<p align="center">
+  <span>Visitor Counter</span><br>
+  <img align="center" src="https://profile-counter.glitch.me/nroman1992/count.svg" />
+</p>
 
 
 <p align="center">
