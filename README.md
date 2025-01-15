@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <b>Visitor Counter</b>
+  <br>Visitor Counter</br>
   <img align="center" src="https://profile-counter.glitch.me/nroman1992/count.svg" />
 </p>
 
