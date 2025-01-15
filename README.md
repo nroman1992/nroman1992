@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nelson Garcia Roman</h1>
 
 <p align="center">
-  <br><b style="color: blue;">Visitor Counter</b></br>
+  <b style="color: red;">Visitor Counter</b>
+</p>
+<p align="center">
   <img align="center" src="https://profile-counter.glitch.me/nroman1992/count.svg" />
 </p>
 
