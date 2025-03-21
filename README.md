@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nelson Garcia Roman</h1>
+<h1 align="center">Hi 👋, I'm Nelson G. Roman</h1>
 
 <!-- <p align="center">
   <b style="color: blue;">Visitor Counter</b>
